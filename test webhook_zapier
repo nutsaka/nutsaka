@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SKV23</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+<link href="https://fonts.googleapis.com/css?family=Prompt|Quattrocento&display=swap&subset=thai" rel="stylesheet">
+<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+<link rel="stylesheet" type="text/css" href="/assets/slick/slick.css" />
+<link rel="stylesheet" type="text/css" href="/assets/slick/slick-theme.css" />
+<link rel="stylesheet" href="/assets/popup/magnific-popup.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+</head>
+<body>
+<header>
+<nav class="navbar" role="navigation" aria-label="main navigation">
+<div class="container">
+<div class="navbar-brand">
+<a class="navbar-item" href="#">
+<img src="/assets/img/logo.png" alt="CLOUD RESIDENCES SKV23" width="150">
+</a>
+<a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+<span aria-hidden="true"></span>
+<span aria-hidden="true"></span>
+<span aria-hidden="true"></span>
+</a>
+</div>
+<div class="navbar-menu">
+<div class="navbar-end">
+<a href="th?Source=Facebook&amp;email=test%40fb.com&amp;tal=test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89%26or%26test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89&amp;time=2020-03-11T07%3A14%3A15%2B0000&amp;%E0%B8%B7name=test%20lead%3A%20dummy%20data%20for%20%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD" class="navbar-item">
+หน้าหลัก
+</a>
+<a href="#concept" class="navbar-item">
+แนวคิด
+</a>
+<a href="#projectinfo" class="navbar-item">
+ข้อมูลโครงการ
+</a>
+<a href="#floorplan" class="navbar-item">
+ผังโครงการ
+</a>
+<a href="#gallery" class="navbar-item">
+แกลเลอรี่
+</a>
+<a href="#location" class="navbar-item">
+ที่ตั้งโครงการ
+</a>
+<a href="#progress" class="navbar-item">
+ความคืบหน้าของโครงการ
+</a>
+<a href="#contact" class="navbar-item">
+ติดต่อ
+</a>
+<div class="navbar-item has-dropdown is-hoverable">
+<a class="navbar-link" href="http://phpstack-177197-1173259.cloudwaysapps.com/th?Source=Facebook&amp;email=test%40fb.com&amp;tal=test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89%26or%26test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89&amp;time=2020-03-11T07%3A14%3A15%2B0000&amp;%E0%B8%B7name=test%20lead%3A%20dummy%20data%20for%20%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD">
+ไทย
+</a>
+<!--<a class="navbar-link" href="http://phpstack-177197-1173259.cloudwaysapps.com/en">
+EN
+</a>-->
+<div class="navbar-dropdown">
+<a class="navbar-item" href="http://phpstack-177197-1173259.cloudwaysapps.com/en?Source=Facebook&amp;email=test%40fb.com&amp;tal=test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89%26or%26test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89&amp;time=2020-03-11T07%3A14%3A15%2B0000&amp;%E0%B8%B7name=test%20lead%3A%20dummy%20data%20for%20%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD">
+EN
+</a>
+<a class="navbar-item" href="http://phpstack-177197-1173259.cloudwaysapps.com/cn?Source=Facebook&amp;email=test%40fb.com&amp;tal=test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89%26or%26test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89&amp;time=2020-03-11T07%3A14%3A15%2B0000&amp;%E0%B8%B7name=test%20lead%3A%20dummy%20data%20for%20%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD">
+中文
+</a>
+<!--
+<a class="navbar-item" href="http://phpstack-177197-1173259.cloudwaysapps.com/th">
+ไทย
+</a>
+<a class="navbar-item" href="http://phpstack-177197-1173259.cloudwaysapps.com/cn">
+中文
+</a>
+-->
+</div>
+</div>
+</div>
+<a href="#register" class="navbar-item">
+<div class="btn-register">
+Register
+</div>
+</a>
+</div>
+</div>
+</nav>
+</header>
+<section class="" style="margin-bottom:-5px;">
+<div class="banner">
+<div>
+<a href="http://www.google.com" target="_blank"><img src="http://phpstack-177197-1173259.cloudwaysapps.com/assets_backend/img/banner/IMG_img_20200305001236.jpeg" width="100%"></a>
+</div>
+<div>
+<a href="http://www.google.com" target="_blank"><img src="http://phpstack-177197-1173259.cloudwaysapps.com/assets_backend/img/banner/IMG_img_20200305001213.jpeg" width="100%"></a>
+</div>
+<div>
+<a href="http://www.google.com" target="_blank"><img src="http://phpstack-177197-1173259.cloudwaysapps.com/assets_backend/img/banner/IMG_img_20200305001158.jpeg" width="100%"></a>
+</div>
+<!--
+<div><a><img src="/assets/img/banner/1.jpg" width="100%"></a></div>
+<div><a><img src="/assets/img/banner/2.jpg" width="100%"></a></div>
+<div><a><img src="/assets/img/banner/3.jpg" width="100%"></a></div>
+-->
+</div>
+</section>
+<section class="section bg-section2" id="register">
+<form class="form-horizontal" method="POST" action="http://phpstack-177197-1173259.cloudwaysapps.com/saveLead" enctype="multipart/form-data" id="formRegister">
+<input type="hidden" name="_token" value="cNAeL6Cb6jtJHMhMhFhIkYZj6yVsNnxRvocSYgVB">
+<div class="container">
+<h1 class="has-text-centered title has-text-white">ลงทะเบียนเพื่อรับสิทธิพิเศษ</h1>
+<div class="mini-line"></div>
+<div class="columns has-text-white">
+<div class="column is-4 is-offset-2">
+<div class="field">
+<label class="label">ชื่อ<span class="has-text-danger">*</span></label>
+<div class="control">
+<input class="input" type="text" name="first_name" placeholder="Text input" required="require">
+</div>
+</div>
+<div class="field">
+<label class="label">อีเมล<span class="has-text-danger">*</span></label>
+<div class="control">
+<input class="input" type="email" name="email" placeholder="Text input" required="require">
+</div>
+</div>
+<div class="field">
+<label class="label">ประเภทห้อง</label>
+<div class="control">
+<div class="select">
+<select name="room_type" required="require">
+<option value="">Please Select</option>
+<option value="1 Bed Room">1 Bed Room</option>
+<option value="1 Bed Room Extra">1 Bed Room Extra</option>
+<option value="2 Bed Room">2 Bed Room</option>
+<option value="Double Space">Double Space</option>
+<option value="Penthouse">Penthouse</option>
+</select>
+</div>
+</div>
+</div>
+<div class="field">
+<label class="label">จุดประสงค์</label>
+<div class="control">
+<div class="select">
+<select name="objective" required="require">
+<option value="">Please Select</option>
+<option value="INVESTMENT">INVESTMENT</option>
+<option value="2ND HOME">2ND HOME</option>
+<option value="OWN RESIDENCES">OWN RESIDENCES</option>
+<option value="FOR ASSET">FOR ASSET</option>
+</select>
+</div>
+</div>
+</div>
+</div>
+<div class="column is-4">
+<div class="field">
+<label class="label">นามสกุล<span class="has-text-danger">*</span></label>
+<div class="control">
+<input class="input" type="text" name="last_name" placeholder="Text input" required="require">
+</div>
+</div>
+<div class="field">
+<label class="label">เบอร์โทรศัพท์<span class="has-text-danger">*</span></label>
+<div class="control">
+<input class="input" type="text" name="phone_number" placeholder="Text input" required="require">
+</div>
+</div>
+<div class="field">
+<label class="label">งบประมาณ</label>
+<div class="control">
+<div class="select">
+<select name="budget" required="require">
+<option value="">Please Select</option>
+<option value="5-7 MB.">5-7 MB.</option>
+<option value="8-10 MB.">8-10 MB.</option>
+<option value="11-13 MB.">11-13 MB.</option>
+<option value="14-16 MB.">14-16 MB.</option>
+<option value="More than 17 MB.">More than 17 MB.</option>
+</select>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="columns">
+<div class="column is-10 is-offset-2">
+<div class="agreement">
+<label class="checkbox">
+<input type="checkbox" required="require">
+I hereby consent SKV 23 Co.,Ltd. to collect, use or disclose my given information for the company&#039;s promotion.
+</label>
+</div>
+</div>
+</div>
+<div class="columns">
+<div class="column ">
+<input type="hidden" name="utm_source" value="direct">
+<input type="hidden" name="medium" value="">
+<input type="hidden" name="campaign" value="">
+<input type="hidden" name="lang" value="th">
+<p class="has-text-centered"><button class="btn-submit">ลงทะเบียน</button></p>
+</div>
+</div>
+</div>
+</form>
+</section>
+<section class="section bg-section3" id="concept">
+<div class="container">
+<div class="columns">
+<div class="column is-4-desktop is-offset-8-desktop is-6-tablet is-offset-6-tablet">
+<div class="bg-purple">
+<h1 class="title has-text-white">แนวคิดของโครงการ</h1>
+<div class="full-line"></div>
+<p class="has-text-white is-size-6">พบกับประสบการณ์การใช้ชีวิตที่เหนือระดับที่ CLOUD Residences บนทำเลในซอยสุขุมวิท 23 ใจกลางอโศก หนึ่งในย่านที่มีมูลค่าสูงที่สุดของกรุงเทพฯ ที่นี่อยู่เพียงไม่กี่ก้าวจากสถานีรถไฟฟ้าบีทีเอสอโศกและสถานีรถไฟฟ้าใต้ดินสุขุมวิท รวมถึงการเดินทางผ่านซอยต่างๆในซอยสุขุมวิทที่เชื่อมต่อกันทำให้ทุกการเดินทางกลายเป็นเรื่องง่ายดาย CLOUD Residences จึงเป็นที่พักในอุดมคติของชาวกรุงเทพฯยุคใหม่ที่มีไลฟ์สไตล์ไม่หยุดนิ่ง</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section bg-section4" id="projectinfo">
+<div class="container">
+<div class="columns is-multiline is-mobile">
+<div class="column is-3-desktop is-6-tablet is-12-mobile is-offset-2-desktop has-text-centered-mobile">
+<a class="btn-factsheet active" id="btnFactsheet">รายละเอียดโครงการ</a>
+<a class="btn-factsheet" id="btnAmenitie">สิ่งอำนวยความสะดวก</a>
+</div>
+<div class="column is-5-desktop is-6-tablet is-12-mobile">
+<h1 class="title has-text-centered-mobile">ข้อมูลโครงการ<br></h1>
+<div class="full-line"></div>
+<h3 class="subtitle" id="infoType">FACTSHEET</h3>
+<div class="columns">
+<div class="column is-12">
+<table class="table table-factsheet" id="tb_factsheet">
+<tr>
+<td width="160">Development Name</td>
+<td class="table-empty-td"></td>
+<td>CLOUD Residences – SKV 23</td>
+</tr>
+<tr>
+<td>Developer</td>
+<td class="table-empty-td"></td>
+<td>SKV 23 Co., Ltd., affiliated company of Risland (Thailand) Co.,Ltd.</td>
+</tr>
+<tr>
+<td>Project Consultants</td>
+<td class="table-empty-td"></td>
+<td>
+Architect: Tandem Architects (2001) Co.,Ltd.<br>
+Designer: Leo Design Co.,Ltd.<br>
+Landscape: 1819 Studio Co.,Ltd.
+</td>
+</tr>
+<tr>
+<td>Location</td>
+<td class="table-empty-td"></td>
+<td>Asoke - Sukhumvit 23</td>
+</tr>
+<tr>
+<td>Total land Area</td>
+<td class="table-empty-td"></td>
+<td>1-3-27.6 Rai</td>
+</tr>
+<tr>
+<td>Storeys</td>
+<td class="table-empty-td"></td>
+<td>43</td>
+</tr>
+<tr>
+<td>Buildings / Units</td>
+<td class="table-empty-td"></td>
+<td>372 units</td>
+</tr>
+<tr>
+<td>Parking</td>
+<td class="table-empty-td"></td>
+<td>67%</td>
+</tr>
+<tr>
+<td>Type of units</td>
+<td class="table-empty-td"></td>
+<td>
+1 Bedroom (29 - 30 SQ.M.)<br>
+1 Bedroom Plus (41 - 43 SQ.M.)<br>
+2 Bedroom (57 - 60 SQ.M.)<br>
+Double Space (47 - 95 SQ.M.)<br>
+Penthouse (79 - 99 SQ.M.)
+</td>
+</tr>
+</table>
+<table class="table table-factsheet" id="tb_amenitie" style="display:none;">
+<tr>
+<td width="150">ชั้น 1</td>
+<td class="table-empty-td"></td>
+<td>Glamorous Garden / The Lobby</td>
+</tr>
+<tr>
+<td>ชั้น 28</td>
+<td class="table-empty-td"></td>
+<td>Infinite-Edge Lap Pool / Kid&#039;s Aqua Corner / Pleasant Jacuzzi / Blue Recreational Zone / Green Leisure Zone</td>
+</tr>
+<tr>
+<td>ชั้น 29</td>
+<td class="table-empty-td"></td>
+<td>270° Experience Fitness Club / Serenity Yoga Studio / Sauna Room / Elite Sky Working Lounge</td>
+</tr>
+<tr>
+<td>ชั้น 30</td>
+<td class="table-empty-td"></td>
+<td>The Roof Bar &amp; Dinning / Open-Air BBQ Area / Sky Common Pavilion / The Sunset Deck</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section bg-section4" id="floorplan">
+<div class="container">
+<div class="columns">
+<div class="column is-6 is-offset-2-desktop">
+<div id="step1">
+<a class="btn-layout active" id="btnFloorPlan">FLOOR PLAN</a>
+<a class="btn-layout" id="btnUnitLayout">UNIT LAYOUT</a>
+</div>
+<div id="step2" style="display:none;">
+<a class="btn-layout active btnUnitType" data-attr="0">LOFT</a>
+<a class="btn-layout btnUnitType" data-attr="1">TYPE A</a>
+<a class="btn-layout btnUnitType" data-attr="2">TYPE B</a>
+<a class="btn-layout btnUnitType" data-attr="3">TYPE C</a>
+<a class="btn-layout btnUnitType" data-attr="4">PENTHOUSE</a>
+<a class="btn-layout" id="btnUnitBack">BACK</a>
+</div>
+</div>
+<div class="column is-3">
+<div class="field">
+<div class="control">
+<div class="select">
+<select id="floorPlan"></select>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="columns">
+<div class="column is-9 is-offset-2-desktop">
+<img src="/assets/img/plan/floorplan/5th_floor.jpg" id="imgSrc" width="100%">
+</div>
+</div>
+</div>
+</section>
+<section class="section is-width has-background-white" id="gallery">
+<div class="container">
+<div class="columns is-gapless">
+<div class="column is-4 has-text-centered-mobile">
+<h1 class="title">แกลเลอรี</h1>
+</div>
+<div class="column is-8">
+<ul class="gal_menu">
+<li><a class="galselect gallery-active" data-attr="galall">All</a></li>
+<li><a class="galselect" data-attr="galex">Exterior</a></li>
+<li><a class="galselect" data-attr="galin">Interior</a></li>
+<li><a class="galselect" data-attr="galfa">Facilities</a></li>
+<li><a class="galselect" data-attr="galpano">Panoramic View</a></li>
+<li><a class="galselect" data-attr="galvdo">Video</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="container is-fluid">
+<div class="columns is-gapless">
+<div class="column is-12">
+<div id="galall">
+<div class="gallery">
+<div>
+<a href="/assets/img/gallery/full/all_1.jpg"><img src="/assets/img/gallery/all_1.jpg"
+width="100%"></a>
+<a href="/assets/img/gallery/full/all_2.jpg"><img src="/assets/img/gallery/all_2.jpg"
+width="100%"></a></div>
+<div>
+<a href="/assets/img/gallery/full/all_3.jpg"><img src="/assets/img/gallery/all_3.jpg"
+width="100%"></a><a href="/assets/img/gallery/full/all_4.jpg"><img
+src="/assets/img/gallery/all_4.jpg" width="100%"></a></div>
+<div>
+<a href="/assets/img/gallery/full/all_5.jpg"><img src="/assets/img/gallery/all_5.jpg"
+width="100%"></a><a href="/assets/img/gallery/full/all_6.jpg"><img
+src="/assets/img/gallery/all_6.jpg" width="100%"></a></div>
+<div>
+<a href="/assets/img/gallery/full/all_7.jpg"><img src="/assets/img/gallery/all_7.jpg"
+width="100%"></a><a href="/assets/img/gallery/full/all_8.jpg"><img
+src="/assets/img/gallery/all_8.jpg" width="100%"></a></div>
+<div>
+<a href="/assets/img/gallery/full/all_9.jpg"><img src="/assets/img/gallery/all_9.jpg"
+width="100%"></a><a href="/assets/img/gallery/full/all_10.jpg"><img
+src="/assets/img/gallery/all_10.jpg" width="100%"></a></div>
+<div>
+<a href="/assets/img/gallery/full/all_11.jpg"><img src="/assets/img/gallery/all_11.jpg"
+width="100%"></a><a href="/assets/img/gallery/full/all_12.jpg"><img
+src="/assets/img/gallery/all_12.jpg" width="100%"></a></div>
+<div>
+<a href="/assets/img/gallery/full/all_13.jpg"><img src="/assets/img/gallery/all_13.jpg"
+width="100%"></a><a href="/assets/img/gallery/full/all_14.jpg"><img
+src="/assets/img/gallery/all_14.jpg" width="100%"></a></div>
+<div>
+<a href="/assets/img/gallery/full/all_15.jpg"><img src="/assets/img/gallery/all_15.jpg"
+width="100%"></a><a href="/assets/img/gallery/full/all_16.jpg"><img
+src="/assets/img/gallery/all_16.jpg" width="100%"></a></div>
+<div>
+<a href="/assets/img/gallery/full/all_17.jpg"><img src="/assets/img/gallery/all_17.jpg"
+width="100%"></a><a href="/assets/img/gallery/full/all_18.jpg"><img
+src="/assets/img/gallery/all_18.jpg" width="100%"></a></div>
+</div>
+</div>
+<div style="display:none;" id="galin">
+<div class="gallery">
+<div><a href="/assets/img/gallery/full/all_3.jpg"><img src="/assets/img/gallery/all_3.jpg" width="100%"></a><a href="/assets/img/gallery/full/all_9.jpg"><img
+src="/assets/img/gallery/all_9.jpg" width="100%"></a></div>
+<div><a href="/assets/img/gallery/full/all_10.jpg"><img src="/assets/img/gallery/all_10.jpg" width="100%"></a><a href="/assets/img/gallery/full/all_11.jpg"><img
+src="/assets/img/gallery/all_11.jpg" width="100%"></a></div>
+<div><a href="/assets/img/gallery/full/all_12.jpg"><img src="/assets/img/gallery/all_12.jpg" width="100%"></a><a href="/assets/img/gallery/full/all_13.jpg"><img
+src="/assets/img/gallery/all_13.jpg" width="100%"></a></div>
+<div><a href="/assets/img/gallery/full/all_14.jpg"><img src="/assets/img/gallery/all_14.jpg" width="100%"></a>
+<a><img src="/assets/img/gallery/p1.jpg" width="100%"></a></div>
+</div>
+</div>
+<div style="display:none;" id="galex" style="display:none;">
+<div class="gallery">
+<div><a href="/assets/img/gallery/full/all_1.jpg"><img src="/assets/img/gallery/all_1.jpg" width="100%"></a><a href="/assets/img/gallery/full/all_2.jpg"><img
+src="/assets/img/gallery/all_2.jpg" width="100%"></a></div>
+<div><a href="/assets/img/gallery/full/all_4.jpg"><img src="/assets/img/gallery/all_4.jpg" width="100%"></a><a href="/assets/img/gallery/full/all_5.jpg"><img
+src="/assets/img/gallery/all_5.jpg" width="100%"></a></div>
+<div><a ><img src="/assets/img/gallery/p2.jpg" width="100%"></a><a><img
+src="/assets/img/gallery/p1.jpg" width="100%"></a></div>
+<div><a><img src="/assets/img/gallery/p1.jpg" width="100%"></a><a ><img
+src="/assets/img/gallery/p2.jpg" width="100%"></a></div>
+</div>
+</div>
+<div style="display:none;" id="galfa" style="display:none;">
+<div class="gallery">
+<div><a href="/assets/img/gallery/full/all_6.jpg"><img src="/assets/img/gallery/all_6.jpg" width="100%"></a><a href="/assets/img/gallery/full/all_3.jpg"><img
+src="/assets/img/gallery/all_3.jpg" width="100%"></a></div>
+<div><a href="/assets/img/gallery/full/all_8.jpg"><img src="/assets/img/gallery/all_8.jpg" width="100%"></a><a href="/assets/img/gallery/full/all_15.jpg"><img
+src="/assets/img/gallery/all_15.jpg" width="100%"></a></div>
+<div><a href="/assets/img/gallery/full/all_16.jpg"><img src="/assets/img/gallery/all_16.jpg" width="100%"></a><a href="/assets/img/gallery/full/all_17.jpg"><img
+src="/assets/img/gallery/all_17.jpg" width="100%"></a></div>
+<div><a href="/assets/img/gallery/full/all_18.jpg"><img src="/assets/img/gallery/all_18.jpg" width="100%"></a>
+<a><img src="/assets/img/gallery/p1.jpg" width="100%"></a></div>
+</div>
+</div>
+<div style="display:none;" id="galpano" style="display:none;">
+Panoramic View
+</div>
+<div style="display:none;" id="galvdo" style="display:none;">
+<iframe style="margin-top:30px;margin-bottom:30px;" width="100%" height="600" src="https://www.youtube.com/embed/g-mOwgqgRXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section is-full has-background-white" id="location">
+<div class="container">
+<div class="columns is-gapless">
+<div class="column is-4 has-text-centered-mobile">
+<h1 class="title">ที่ตั้งโครงการ</h1>
+</div>
+</div>
+</div>
+<div class="container is-fluid">
+<div class="columns is-gapless">
+<div class="column is-12">
+<iframe
+src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.6616096971707!2d100.56304185115762!3d13.738925590308549!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29f61cd0eb27d%3A0xd341b77722524d54!2sCloud%20Residences%20SKV23!5e0!3m2!1sth!2sth!4v1582043256875!5m2!1sth!2sth"
+width="100%" height="500" frameborder="0" style="border:0;margin-top:1.5rem;"
+allowfullscreen=""></iframe>
+</div>
+</div>
+</div>
+</section>
+<section class="section bg-section4" id="progress">
+<div class="container">
+<div class="columns has-text-centered-mobile">
+<div class="column is-4-desktop is-6-tablet is-12-mobile is-offset-2-desktop">
+<h3 class="title" style="margin-bottom:0px;">ความคืบหน้าโครงการ</h3>
+ภาพรวมแล้วเสร็จ
+<p class="progress-text sf">
+42%
+</p>
+<br>
+<p>
+<a href="th/progress?Source=Facebook&amp;email=test%40fb.com&amp;tal=test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89%26or%26test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89&amp;time=2020-03-11T07%3A14%3A15%2B0000&amp;%E0%B8%B7name=test%20lead%3A%20dummy%20data%20for%20%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD&id=2" class="btn-progress sf" target="_blank">รูปภาพความคืบหน้า</a>
+</p>
+</div>
+<div class="column is-5-desktop is-6-tablet is-12-mobile">
+<table width="100%" class="progress-table">
+<tr>
+<td class="fix-lowertext">งานโครงสร้าง</td>
+<td class="is-size-3 is-size-5-mobile has-text-weight-bold has-text-right sf">
+30%
+</td>
+</tr>
+<tr>
+<td colspan="2"><progress class="progress is-small" value="30" max="100">
+30%
+</progress>
+</td>
+</tr>
+<tr>
+<td class="fix-lowertext">งานระบบ</td>
+<td class="is-size-3 is-size-5-mobile has-text-weight-bold has-text-right sf">
+45%
+</td>
+</tr>
+<tr>
+<td colspan="2"><progress class="progress is-small" value="45" max="100">
+45%
+</progress></td>
+</tr>
+<tr>
+<td class="fix-lowertext">งานสถาปัตยกรรม</td>
+<td class="is-size-3 is-size-5-mobile has-text-weight-bold has-text-right sf">
+50%
+</td>
+</tr>
+<tr>
+<td colspan="2"><progress class="progress is-small" value="50" max="100">
+50%
+</progress>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</section>
+<footer class="section" id="contact">
+<div class="container">
+<div class="columns has-text-white">
+<div class="column has-text-centered-mobile">
+<span class="is-size-8">Call Center</span><br>
+<a href="tel:02-026-6888" class="has-text-white is-size-3 has-text-weight-bold">02-026-6888</a>
+</div>
+<div class="column has-text-centered-mobile">
+<span class="has-text-weight-bold">Risland (Thailand) Co.,Ltd.</span><br>
+24th Floor, G Tower Rama 9 Road, Huai Kwang, Bangkok 10310
+</div>
+<div class="column has-text-right has-text-centered-mobile">
+<a href="https://risland.co.th"><img src="/assets/img/risland_logo.png" width="150"></a>
+</div>
+</div>
+<div class="columns">
+<div class="column has-text-justified has-text-white-bis is-size-7">
+Name of Condominium: CLOUD Residences (“project”); Developer: SKV 23 Co., Ltd.; Authorized Director:
+Mr. Zhu Hang; Registered Capital: 327,700,000 Baht paid-up capital; Registered Address: No.
+118/68-69 Young Place Building, 3rd floor, Room no. A 303-304, Soi Sukhumvit 23, Sukhumvit Road,
+Klongteoi Nuea Sub-District, Wattana District, Bangkok; The project is on proceed of Environmental
+Impact Assessment. Site Location: Soi Sukhumvit 23, Sukhumvit Road, Khlong Toei Nuea Subdistrict,
+Wattana District, Bangkok; Located on title deed numbered 359, 2960, 4237, 4238, 6126, 6127, 128153,
+145757, 145758. Project Area (approx.): 1 rai, 3 ngan, and 27.6 square wah. The project consists of
+1 building with 43 floors, total 372 units. Duration of construction: 30 months from the
+Environmental Impact Assessment’s approval. The registration of Condominium will be proceeded once
+the construction is completed; Land will be subject to mortgage with a commercial bank; Common
+expenses and taxes shall be paid by unit owners under the condominium law and under the Agreement
+for Sale and Purchase of Condominium. *All advertisement pictures are simulated. Images and
+specifications may be subject to change to the maximum extent permitted by laws, and the Developer
+reserves the right to make adjustments as a result of changes to regulations or laws at time of
+construction and/or, inconsistencies arising from illustrations or artist impressions which shall
+serve only as indications for general concepts of the project.
+</div>
+</div>
+</div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/assets/slick/slick.min.js"></script>
+<script src="/assets/popup/jquery.magnific-popup.min.js"></script>
+<script>
+$(function () {
+$(".navbar-burger").click(function () {
+// Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+$(".navbar-burger").toggleClass("is-active");
+$(".navbar-menu").toggleClass("is-active");
+});
+var galleryConfig = {
+slidesToShow: 4,
+slidesToScroll: 4,
+arrow: false,
+prevArrow: false,
+nextArrow: false,
+dots: true,
+autoplay: true,
+autoplaySpeed: 3000,
+responsive: [{
+breakpoint: 1024,
+settings: {
+slidesToShow: 2,
+slidesToScroll: 2,
+infinite: true,
+dots: true
+}
+},
+{
+breakpoint: 768,
+settings: {
+slidesToShow: 2,
+slidesToScroll: 2,
+dots: true
+}
+}
+]
+};
+var selectPage = 'galall';
+var imgFolder = 'floorplan';
+$('.galselect').click(function () {
+var page = $(this).attr('data-attr');
+$(`#${selectPage}`).hide();
+selectPage = page;
+$(`#${page}`).show();
+$('.gallery').slick('setPosition');
+$('.galselect').removeClass('gallery-active')
+$(this).addClass('gallery-active');
+});
+$('.gallery a').magnificPopup({
+type: 'image',
+removalDelay: 300,
+mainClass: 'mfp-fade',
+gallery:{
+enabled:true
+}
+});
+var fp = ['5th Floor', '6th - 25th Floor', '26th Lower Level', '26th Upper Level',
+'27th Lower Level', '27th Upper Level', '28th Floor', '29th Floor', '30th Lower Level',
+'30th Upper Level', '31st - 39th Lower Level', '31st - 39th Upper Level',
+'40th - 42nd Floor', '43rd Floor'
+];
+var ul = [
+['Loft A1', 'Loft A3', 'Loft B1', 'Loft C1', 'Loft L1', 'Loft L2', 'Loft L3', 'Loft L4',
+'Loft L5'
+],
+['Type A1-1', 'Type A2', 'Type A3', 'Type A4'],
+['Type B1', 'Type B2'],
+['Type C1', 'Type C2', 'Type C3'],
+['Penthouse 1', 'Penthouse 2', 'Penthouse Loft']
+];
+$.each(fp, function (k, v) {
+$('#floorPlan').append(`<option value="${v}">${v}</option>`);
+});
+$('#floorPlan').change(function(){
+var imgName = translate($(this).val());
+$('#imgSrc').attr('src',`assets/img/plan/${imgFolder}/${imgName}.jpg`);
+});
+$('#btnUnitBack').click(function () {
+$('#step1').fadeIn();
+$('#step2').hide();
+$('#floorPlan').html('');
+$.each(fp, function (k, v) {
+$('#floorPlan').append(`<option value="${v}">${v}</option>`);
+});
+imgFolder = 'floorplan';
+$('#imgSrc').attr('src',`assets/img/plan/${imgFolder}/${translate(fp[0])}.jpg`);
+});
+$('#btnUnitLayout').click(function () {
+$('#step1').hide();
+$('#step2').fadeIn();
+$('#floorPlan').html('');
+$.each(ul[0], function (k, v) {
+$('#floorPlan').append(`<option value="${v}">${v}</option>`);
+});
+imgFolder = 'roomplan';
+$('#imgSrc').attr('src',`assets/img/plan/${imgFolder}/${translate(ul[0][0])}.jpg`);
+});
+$('.btnUnitType').click(function () {
+var c = $(this).attr('data-attr');
+$('#floorPlan').html('');
+$.each(ul[c], function (k, v) {
+$('#floorPlan').append(`<option value="${v}">${v}</option>`);
+});
+$('#imgSrc').attr('src',`assets/img/plan/${imgFolder}/${translate(ul[c][0])}.jpg`);
+$('.btnUnitType').removeClass('active');
+$(this).addClass('active');
+});
+$('#btnFactsheet').click(function () {
+$('#tb_amenitie').hide();
+$('#tb_factsheet').fadeIn();
+$('#infoType').hide().fadeIn().html('FACTSHEET');
+$('#btnAmenitie').removeClass('active');
+$(this).addClass('active');
+});
+$('#btnAmenitie').click(function () {
+$('#tb_amenitie').fadeIn();
+$('#tb_factsheet').hide();
+$('#infoType').hide().fadeIn().html('AMENITIES');
+$('#btnFactsheet').removeClass('active');
+$(this).addClass('active');
+});
+$('.banner').slick({
+arrow: false,
+dots: true,
+prevArrow: false,
+nextArrow: false,
+infinite: true,
+speed: 1000,
+cssEase: 'linear',
+fade: true,
+autoplay: true,
+autoplaySpeed: 3000,
+});
+$('.gallery').slick(galleryConfig);
+function translate($name){
+$name = $name.split(' ').join('_').toLowerCase();
+return $name;
+}
+});
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag("js", new Date());
+gtag("config", "GA_MEASUREMENT_ID");
+</script>
+</body>
+</html>
