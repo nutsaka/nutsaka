@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -28,7 +29,7 @@
 </div>
 <div class="navbar-menu">
 <div class="navbar-end">
-<a href="th?Source=Facebook&amp;email=test%40fb.com&amp;tal=test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89%26or%26test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89&amp;time=2020-03-11T07%3A14%3A15%2B0000&amp;%E0%B8%B7name=test%20lead%3A%20dummy%20data%20for%20%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD" class="navbar-item">
+<a href="th" class="navbar-item">
 หน้าหลัก
 </a>
 <a href="#concept" class="navbar-item">
@@ -53,17 +54,17 @@
 ติดต่อ
 </a>
 <div class="navbar-item has-dropdown is-hoverable">
-<a class="navbar-link" href="http://phpstack-177197-1173259.cloudwaysapps.com/th?Source=Facebook&amp;email=test%40fb.com&amp;tal=test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89%26or%26test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89&amp;time=2020-03-11T07%3A14%3A15%2B0000&amp;%E0%B8%B7name=test%20lead%3A%20dummy%20data%20for%20%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD">
+<a class="navbar-link" href="http://phpstack-177197-1173259.cloudwaysapps.com/th">
 ไทย
 </a>
 <!--<a class="navbar-link" href="http://phpstack-177197-1173259.cloudwaysapps.com/en">
 EN
 </a>-->
 <div class="navbar-dropdown">
-<a class="navbar-item" href="http://phpstack-177197-1173259.cloudwaysapps.com/en?Source=Facebook&amp;email=test%40fb.com&amp;tal=test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89%26or%26test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89&amp;time=2020-03-11T07%3A14%3A15%2B0000&amp;%E0%B8%B7name=test%20lead%3A%20dummy%20data%20for%20%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD">
+<a class="navbar-item" href="http://phpstack-177197-1173259.cloudwaysapps.com/en">
 EN
 </a>
-<a class="navbar-item" href="http://phpstack-177197-1173259.cloudwaysapps.com/cn?Source=Facebook&amp;email=test%40fb.com&amp;tal=test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89%26or%26test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89&amp;time=2020-03-11T07%3A14%3A15%2B0000&amp;%E0%B8%B7name=test%20lead%3A%20dummy%20data%20for%20%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD">
+<a class="navbar-item" href="http://phpstack-177197-1173259.cloudwaysapps.com/cn">
 中文
 </a>
 <!--
@@ -106,7 +107,7 @@ Register
 </section>
 <section class="section bg-section2" id="register">
 <form class="form-horizontal" method="POST" action="http://phpstack-177197-1173259.cloudwaysapps.com/saveLead" enctype="multipart/form-data" id="formRegister">
-<input type="hidden" name="_token" value="cNAeL6Cb6jtJHMhMhFhIkYZj6yVsNnxRvocSYgVB">
+<input type="hidden" name="_token" value="otUvlhqv0QpbIgK7epdrltntE6AkNg3bYRBIPyI7">
 <div class="container">
 <h1 class="has-text-centered title has-text-white">ลงทะเบียนเพื่อรับสิทธิพิเศษ</h1>
 <div class="mini-line"></div>
@@ -489,7 +490,7 @@ allowfullscreen=""></iframe>
 </p>
 <br>
 <p>
-<a href="th/progress?Source=Facebook&amp;email=test%40fb.com&amp;tal=test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89%26or%26test%20lead%3A%20dummy%20data%20for%20%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89&amp;time=2020-03-11T07%3A14%3A15%2B0000&amp;%E0%B8%B7name=test%20lead%3A%20dummy%20data%20for%20%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD&id=2" class="btn-progress sf" target="_blank">รูปภาพความคืบหน้า</a>
+<a href="th/progress?id=2" class="btn-progress sf" target="_blank">รูปภาพความคืบหน้า</a>
 </p>
 </div>
 <div class="column is-5-desktop is-6-tablet is-12-mobile">
